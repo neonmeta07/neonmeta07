@@ -1,28 +1,82 @@
-# 👩‍💻 Soumya Snehal | Front-End Developer
+# Create the README.md content based on the revised profile
+readme_content = """
+# 👋 Hey there, I'm **Soumya Snehal** — Front-End Developer
 
-I’m **Soumya Snehal**, a passionate and detail-oriented Front-End Developer with a strong foundation in **HTML**, **CSS**, **JavaScript**, and **React.js**. I specialize in building modern, responsive, and intuitive user interfaces that not only work seamlessly but also leave a lasting visual impression.
+### 🎨 Crafting Intuitive Interfaces | 💻 Building Responsive Web Experiences | 🚀 Passionate About UI/UX
 
-With a deep interest in **UI/UX design**, I focus on creating engaging and user-friendly interfaces aligned with the latest web trends. My creativity and problem-solving mindset allow me to brainstorm innovative solutions and deliver polished front-end experiences—from full web applications and dashboards to elegant landing pages.
+I'm a **Front-End Developer** driven by creativity and detail. With a strong foundation in **HTML**, **CSS**, **JavaScript (ES6+)**, and **React.js**, I create elegant and user-centric digital experiences that are fast, accessible, and beautiful across all devices.
 
-Beyond frontend development, I have a strong eye for aesthetics and brand identity. I also design **custom logos and visual assets** that align with the project’s tone and goals. My work reflects a balanced mix of functionality, usability, and clean design.
-
----
-
-## 🛠️ Core Skills & Technologies
-
-- **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js  
-- **Design & UI/UX:** Responsive design, accessibility, mobile-first development  
-- **Branding:** Aesthetic logo creation, visual design, layout consistency  
-- **Development Tools:** Git, GitHub, VS Code, Chrome DevTools  
-- **Best Practices:** Clean code, cross-browser compatibility, performance optimization  
+I specialize in:
+- 🖌️ Designing pixel-perfect UIs
+- ⚙️ Building modular, scalable front-end architectures
+- 💡 Solving problems with code and creativity
 
 ---
 
-## 🚀 What Drives Me
+## 💼 What I Bring to the Table
 
-I’m constantly exploring new technologies and techniques to refine my craft. I believe in building user-first experiences that are not only functional but also beautiful. I enjoy working in collaborative environments where ideas flow freely, and I love transforming creative concepts into elegant digital products.
+🔹 **Strong Front-End Foundations**  
+HTML5, CSS3 (Flexbox, Grid), JavaScript, React.js, Responsive Design
 
-If you're looking for someone who combines **design thinking** with **development precision**, I’d love to connect and create something impactful.
+🔹 **UI/UX Focused Design**  
+I create user flows, wireframes, and high-fidelity mockups that align with modern design trends and usability standards
+
+🔹 **Performance-Driven Development**  
+Optimizing performance and ensuring cross-browser compatibility is always part of my process
+
+🔹 **Branding & Visual Identity**  
+I can translate ideas into cohesive visual stories and intuitive layouts that resonate with users
+
+🔹 **Collaboration & Tools**  
+Git, GitHub, Chrome DevTools, VS Code, Figma — I thrive in collaborative environments with designers, developers & stakeholders
 
 ---
 
+## 🧠 Core Skills & Technologies
+
+| Category | Tools & Technologies |
+|---------|----------------------|
+| 🌐 **Languages** | HTML5, CSS3, JavaScript (ES6+), JSX |
+| ⚛️ **Libraries/Frameworks** | React.js, React Router, Bootstrap, TailwindCSS |
+| 🎨 **UI/UX & Design** | Figma, Canva, Adobe XD, Mobile-First Design, Accessibility |
+| 🛠️ **Tools** | Git, GitHub, VS Code, Chrome DevTools |
+| 🚀 **Practices** | Responsive Design, Component-Based Architecture, SEO Optimization, Code Reusability |
+
+---
+
+## 🔍 What Drives Me
+
+I'm passionate about the intersection of **design and technology**. My goal is always to create products that are:
+- Visually engaging
+- Functionally reliable
+- User-first
+
+I love working on projects that challenge me to grow and inspire me to make a difference—whether it’s refining micro-interactions or streamlining user journeys. When I’m not coding, I’m usually exploring new trends in UI/UX or sketching out ideas for my next side project.
+
+---
+
+## 📬 Let's Collaborate!
+
+If you're looking for a **front-end developer** who can:
+- Turn ideas into polished interfaces
+- Collaborate smoothly with design and backend teams
+- Care deeply about user experience and aesthetics
+
+Let's talk!
+
+📍 Based in Chennai, India  
+📧 [Reach out on LinkedIn](https://www.linkedin.com/in/soumya-snehal-899a23281)  
+💼 Currently at: **Verr Group**  
+🌐 Portfolio: *Coming Soon*
+
+---
+
+> ✨ “Good design is as little design as possible.” – *Dieter Rams*
+"""
+
+# Save to a README.md file
+file_path = "/mnt/data/README_SoumyaSnehal.md"
+with open(file_path, "w") as f:
+    f.write(readme_content)
+
+file_path
