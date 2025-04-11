@@ -1,5 +1,3 @@
-# Create the README.md content based on the revised profile
-readme_content = """
 # 👋 Hey there, I'm **Soumya Snehal** — Front-End Developer
 
 ### 🎨 Crafting Intuitive Interfaces | 💻 Building Responsive Web Experiences | 🚀 Passionate About UI/UX
